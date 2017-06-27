@@ -8,7 +8,6 @@ int main()
 	Users users;
 	users.readFromFile();
 	users.display();
-	//chujcuhjchuj
 	system("pause");
 	return 0;
 }
